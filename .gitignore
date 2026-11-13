@@ -1,0 +1,7 @@
+bin/
+lib/
+*.o
+*.so
+__pycache__/
+*.pyc
+*.log
