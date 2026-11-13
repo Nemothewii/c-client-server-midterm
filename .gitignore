@@ -4,4 +4,3 @@ lib/
 *.so
 __pycache__/
 *.pyc
-*.log
